@@ -1,0 +1,134 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #eff5f5;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+}
+.sam {
+  font-family: "Sacramento", cursive;
+  font-size: 6.2rem;
+  text-shadow: #ffffff 1px 2px;
+  color: #11999e;
+}
+.profile{
+  margin: 80px 0;
+}
+.subsam {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  color: #11999e;
+  bottom: 40px;
+  text-shadow: #ffffff 2px 2px;
+  font-size: 30px;
+  margin-top: 0;
+}
+p {
+  line-height: 2;
+}
+.samIMage {
+  width: 20rem;
+  height: 20rem;
+  
+  border-radius: 50%;
+}
+/* #mountain{
+  position:absolute;
+  bottom: 0px;
+
+} */
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+/* font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+h2 {
+  margin: 10px auto 50px auto;
+  font-family: "Merriweather", serif;
+  width: 90%;
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+.top {
+  /* position: relative; */
+  background-color: #ddeeee;
+  padding-top: 100px;
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+h3 {
+  color: #11999e;
+}
+#cloud1 {
+  position: absolute;
+  top: 60%;
+  left: 27%;
+}
+#cloud2 {
+  position: absolute;
+  top: 14%;
+  right: 25%;
+}
+
+.middle-container {
+  margin: 100px o;
+}
+.comImage {
+  width: 25%;
+  border-radius: 100%;
+  margin-right: 30px;
+  float: left;
+}
+.chilli {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skills{
+  margin: 80px 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn{
+  background-color: #66bfbf;
+  padding: 10px 30px;
+
+  font-weight: 800;
+  border-radius: 20px;
+  font-size: 20px;
+}
+.btn:hover{
+  background-color: #eaf6f6;
+  color: #11999e;
+ border: #11999e 2px solid;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.contact-me{
+  margin: 80px 0;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
